@@ -17,3 +17,15 @@ idletime.sql
 - works with general assembly bikeshare database
 - calculates the amount of time that bikes are idle at stations
 ```
+
+
+### Subquery examples
+```
+- examples of subqueries in the from statment
+```
+
+### Window Functions Examples
+```
+- examples of window functions
+- currently contains rank
+```
